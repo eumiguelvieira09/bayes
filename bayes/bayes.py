@@ -6,7 +6,7 @@ from sklearn.naive_bayes import MultinomialNB
 
 # Configuração do Streamlit
 st.set_page_config(
-    page_title="Bayes",
+    page_title="Naive Bayes",
     layout="wide",
     initial_sidebar_state="collapsed",
     menu_items={'Get Help': 'https://www.google.com'}
